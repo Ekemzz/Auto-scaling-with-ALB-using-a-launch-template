@@ -1,0 +1,1 @@
+# Auto-scaling-with-ALB-using-a-launch-template
